@@ -2,6 +2,8 @@
 #  Lab #6 Enlazando mi proyecto con GitHub:
    *.md Markdown
 
+   Alexa Altagracia Reyes Rojas 5b #15
+
    * [x] Crear cuenta en GitHub.
    * [x] Crear un repositorio en GitHub - Nombre del repo - js-curso-15-5b.
    * [x] Cambiar el nombre de mi rama local master -> main.
