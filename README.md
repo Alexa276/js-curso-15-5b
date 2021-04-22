@@ -70,7 +70,7 @@ Alexa Altagracia Reyes Rojas #15
     * [x] Hacemos git commit -am "Crea funcion saveTask()
     * [x] Hacemos git push
 
-    # Lab 8.4 Trabajando con opciones de Yargs.
+    # Lab 8.4 Trabajando con opciones de Yargs:
 
     Alexa Altagracia Reyes Rojas #15
 
@@ -88,3 +88,19 @@ Alexa Altagracia Reyes Rojas #15
       * [x] Hacemos **git add .**
       * [x] Hacemos **git commit -am "Conigura argvs con opciones para los comandos"**   
       * [x] Hacemos **git push**      
+
+
+    # Lab 8.5 Trabajamos en funciones para los tasks o tareas:
+
+    Alexa Altagracia Reyes Rojas #15
+
+    * [ ] Empezamos a trabajar con **tasks.js**
+        * [ ] Creamos funciones  para trabajar los tasks:
+                * createTask
+                * updateTask
+                * eraseTask
+        * [ ] Exportamos nuestras funciones.
+        * [ ] Hacemos **git add .**
+        * [ ] Hacemos **git commit -am "funciones para los tasks o tareas"**
+        * [ ] Hacemos **git push**        
+
