@@ -94,13 +94,13 @@ Alexa Altagracia Reyes Rojas #15
 
     Alexa Altagracia Reyes Rojas #15
 
-    * [ ] Empezamos a trabajar con **tasks.js**
-        * [ ] Creamos funciones  para trabajar los tasks:
+    * [x] Empezamos a trabajar con **tasks.js**
+        * [x] Creamos funciones  para trabajar los tasks:
                 * createTask
                 * updateTask
                 * eraseTask
-        * [ ] Exportamos nuestras funciones.
-        * [ ] Hacemos **git add .**
-        * [ ] Hacemos **git commit -am "funciones para los tasks o tareas"**
-        * [ ] Hacemos **git push**        
+        * [x] Exportamos nuestras funciones.
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "funciones para los tasks o tareas"**
+        * [x] Hacemos **git push**        
 
