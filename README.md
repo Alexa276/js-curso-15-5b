@@ -87,4 +87,4 @@ Alexa Altagracia Reyes Rojas #15
       * [x] Exportamos nuestras opciones 
       * [x] Hacemos **git add .**
       * [x] Hacemos **git commit -am "Conigura argvs con opciones para los comandos"**   
-      * [x] Hacemos **gir push**      
+      * [x] Hacemos **git push**      
