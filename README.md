@@ -96,11 +96,27 @@ Alexa Altagracia Reyes Rojas #15
 
     * [x] Empezamos a trabajar con **tasks.js**
         * [x] Creamos funciones  para trabajar los tasks:
-                * createTask
-                * updateTask
-                * eraseTask
+             * createTask
+             * updateTask
+             * eraseTask
         * [x] Exportamos nuestras funciones.
         * [x] Hacemos **git add .**
         * [x] Hacemos **git commit -am "funciones para los tasks o tareas"**
-        * [x] Hacemos **git push**        
+        * [x] Hacemos **git push**   
+
+        # Lab 8.6 Trabajamos con la configuracion de Yargs:
+
+        Alexa Altagracia Reyes Rojas #15
+
+        * [ ] Empezamos a trabajar con el fichero **argvs.js**
+             * [ ] Agregando los commandos que usara Yargs
+             * [ ] Exporto el objeto **argv** para nuestro proyecto.
+
+        * [ ] Empezamos a trabajar con **index.js**
+              * [ ] Importamos y exportamos nuestras herramientas.
+
+        * [ ] Hacemos **git add .**
+        * [ ] Hacemos **git commit -am "Exportar tools components"**
+        * [ ] Hacemos **git push** 
+
 
