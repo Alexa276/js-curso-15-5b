@@ -108,15 +108,15 @@ Alexa Altagracia Reyes Rojas #15
 
         Alexa Altagracia Reyes Rojas #15
 
-        * [ ] Empezamos a trabajar con el fichero **argvs.js**
-             * [ ] Agregando los commandos que usara Yargs
-             * [ ] Exporto el objeto **argv** para nuestro proyecto.
+        * [x] Empezamos a trabajar con el fichero **argvs.js**
+             * [x] Agregando los commandos que usara Yargs
+             * [x] Exporto el objeto **argv** para nuestro proyecto.
 
-        * [ ] Empezamos a trabajar con **index.js**
-              * [ ] Importamos y exportamos nuestras herramientas.
+        * [x] Empezamos a trabajar con **index.js**
+              * [x] Importamos y exportamos nuestras herramientas.
 
-        * [ ] Hacemos **git add .**
-        * [ ] Hacemos **git commit -am "Exportar tools components"**
-        * [ ] Hacemos **git push** 
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "Exportar tools components"**
+        * [x] Hacemos **git push** 
 
 
