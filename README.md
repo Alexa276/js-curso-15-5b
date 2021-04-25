@@ -113,7 +113,7 @@ Alexa Altagracia Reyes Rojas #15
              * [x] Exporto el objeto **argv** para nuestro proyecto.
 
         * [x] Empezamos a trabajar con **index.js**
-              * [x] Importamos y exportamos nuestras herramientas.
+            * [x] Importamos y exportamos nuestras herramientas.
 
         * [x] Hacemos **git add .**
         * [x] Hacemos **git commit -am "Exportar tools components"**
